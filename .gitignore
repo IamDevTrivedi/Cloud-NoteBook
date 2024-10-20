@@ -1,0 +1,29 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+node_modules/
+bower_components/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# React FrontEnd
+FrontEnd/build/
+FrontEnd/.env
+FrontEnd/.env.local
+FrontEnd/.env.development
+FrontEnd/.env.production
+
+# Backend Server
+BackEnd/logs/
+BackEnd/*.log
+BackEnd/.env
+BackEnd/dist/
